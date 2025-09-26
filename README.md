@@ -83,7 +83,7 @@ Here are some key visualizations from the analysis of Data Science & AI/ML job s
 
 
 
-View interactive plot: [Click here](plots/Median_salary_trends_per_job_title.html)
+View interactive plot: [Click here](Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Median_salary_trends_per_job_title.html)
 
 ---
 
