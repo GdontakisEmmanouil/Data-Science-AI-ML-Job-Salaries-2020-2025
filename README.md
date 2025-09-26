@@ -79,6 +79,24 @@ These insights will help job seekers, employers, and industry analysts better un
 
 Here are some key visualizations from the analysis of Data Science & AI/ML job salaries (2020-2025):
 
+### Median Salary Trends
+
+![Median Salary Trends](plots/median_salary_trends.png)
+
+View interactive plot: [Click here](plots/median_salary_trends.html)
+
+### Another Plot Example
+
+![Another Plot](plots/another_plot.png)
+
+View interactive plot: [Click here](plots/another_plot.html)
+
+---
+
+Run the notebook interactively in Colab:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GdodakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/main/eda.ipynb)
+
+
 
 ## 🧠 Author
 Created by [Gdontakis Emmanouil] 
