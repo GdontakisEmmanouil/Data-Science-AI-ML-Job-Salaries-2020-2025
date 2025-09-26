@@ -79,8 +79,7 @@ These insights will help job seekers, employers, and industry analysts better un
 
 ---
 
-Run the notebook interactively in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GdodakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/main/eda.ipynb)
+
 
 
 
