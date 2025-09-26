@@ -81,15 +81,9 @@ Here are some key visualizations from the analysis of Data Science & AI/ML job s
 
 ### Median Salary Trends
 
-![Median Salary Trends](plots/median_salary_trends.png)
+
 
 View interactive plot: [Click here](plots/median_salary_trends.html)
-
-### Another Plot Example
-
-![Another Plot](plots/another_plot.png)
-
-View interactive plot: [Click here](plots/another_plot.html)
 
 ---
 
