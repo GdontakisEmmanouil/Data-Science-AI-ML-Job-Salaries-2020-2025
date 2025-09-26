@@ -56,6 +56,7 @@ The dataset contains a structured table of salary-related information for jobs i
 ## 📂 Project Structure
 - `eda.ipynb`: Jupyter notebook with exploratory data analysis.
 - `functions.py`: Functions that we created.
+- `requirements.txt`: List of Python packages our project needs to run.
 - `data`:
   - `salaries.csv`: The original dataset.
   - `cleaned_salaries_data.csv` : The data we used for the analysis.
