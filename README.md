@@ -75,6 +75,11 @@ Through this analysis, we aim to extract meaningful insights such as:
 
 These insights will help job seekers, employers, and industry analysts better understand the dynamics of compensation in the AI/ML and data science job market.
 
+## Insights
+
+Here are some key visualizations from the analysis of Data Science & AI/ML job salaries (2020-2025):
+
+
 ## 🧠 Author
 Created by [Gdontakis Emmanouil] 
 
