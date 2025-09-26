@@ -1,5 +1,5 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GdodakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/main/Data-Science-AI-ML-Job-Salaries-2020-2025/eda.ipynb)
+
 
 
 This project explores job salaries in the fields of Data Science, Artificial Intelligence, and Machine Learning using real-world data.
