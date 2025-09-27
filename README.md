@@ -70,9 +70,7 @@ Through this analysis, we aim to extract meaningful insights such as:
 - Evaluate the impact of remote work on salary levels,
 - Explore salary trends over time (2020–2025) to highlight emerging patterns, market shifts, and the evolution of compensation across the industry.
 
-## 📊 Interactive Plotly Visualizations
-
-The following plots are interactive and can be viewed directly in your browser without downloading.
+## 📊 Interactive Visualizations (Click to View)
 
 * [Salary Distribution per Category](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Salary_distribution_per_categorical.html)
 * [Median Salary Trends](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Median_salary_trends_per_job_title.html)
