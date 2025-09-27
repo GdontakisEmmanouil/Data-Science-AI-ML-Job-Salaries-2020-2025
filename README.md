@@ -79,7 +79,7 @@ These insights will help job seekers, employers, and industry analysts better un
 ## 🧠 Author
 Created by [Gdontakis Emmanouil] 
 
-<img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/629cee0b-55c0-4c44-8abb-ac62fe5d296e" />
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/629cee0b-55c0-4c44-8abb-ac62fe5d296e" />
  [LinkedIn](https://linkedin.com/in/gdodakis-emmanouil) | [GitHub](https://github.com/GdodakisEmmanouil)
 
 Student at Athens University of Economics and Business (AUEB), Statistics
