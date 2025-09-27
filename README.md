@@ -1,5 +1,6 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GdontakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/main/Data-Science-AI-ML-Job-Salaries-2020-2025/eda.ipynb)
+
 This project explores job salaries in the fields of Data Science, Artificial Intelligence, and Machine Learning using real-world data.
 
 The dataset was compiled through a combination of market research and publicly available sources, including the AIJobs salary survey (CC0 license), 365DataScience, Payscale, KDnuggets, ZipRecruiter, and others. It reflects real-world compensation trends from around the globe. 
