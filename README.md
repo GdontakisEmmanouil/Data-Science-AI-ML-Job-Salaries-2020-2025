@@ -1,5 +1,5 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
-[Top 10 Job Title Clusters](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Top_10_Job_Title_Clusters.html)
+[Top 10 Job Title Clusters](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Top_10_Job_Title_Clusters.html)
 
 This project explores job salaries in the fields of Data Science, Artificial Intelligence, and Machine Learning using real-world data.
 
