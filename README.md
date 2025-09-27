@@ -78,7 +78,8 @@ These insights will help job seekers, employers, and industry analysts better un
 
 ## Interactive Plots
 
-- [Distributions of Categorical Variables](plots/Distributions_of_categorical_variables.html)
+[View Interactive Plot](https://github.com/GdontakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/dev/plots/Distributions_of_categorical_variables.html)
+
 
 
 
