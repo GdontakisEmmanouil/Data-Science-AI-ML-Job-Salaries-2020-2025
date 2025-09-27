@@ -72,25 +72,7 @@ Through this analysis, we aim to extract meaningful insights such as:
 
 These insights will help job seekers, employers, and industry analysts better understand the dynamics of compensation in the AI/ML and data science job market.
 
-## 📊 Visualizations
 
-Explore the key insights from the dataset through these interactive HTML plots:
-
-### 1. Distributions of Categorical Variables
-Understand how categorical features like Job Title, Company, and Location are distributed.
-[View Plot](plots/Distributions_of_categorical_variables.html)
-
-### 2. Median Salary Trends per Job Title
-See how the median salary changes over the years for different job titles.
-[View Plot](plots/Median_salary_trends_per_job_title.html)
-
-### 3. Salary Distribution per Categorical Feature
-Compare the salary distributions across various categorical variables.
-[View Plot](plots/Salary_distribution_per_categorical.html)
-
-### 4. Top 10 Job Title Clusters (by %)
-Visualize the top 10 job title clusters and their proportion in the dataset.
-[View Plot](plots/Top_10_Job_Title_Clusters(by %).html)
 
 
 ---
