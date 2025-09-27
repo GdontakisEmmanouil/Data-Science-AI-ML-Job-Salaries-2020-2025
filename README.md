@@ -1,5 +1,5 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GdontakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/main?filepath=Data-Science-AI-ML-Job-Salaries-2020-2025/eda.ipynb)
+
 
 
 
