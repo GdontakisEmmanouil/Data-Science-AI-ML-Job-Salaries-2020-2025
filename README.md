@@ -92,7 +92,7 @@ The visualizations below were created using Plotly and are hosted directly via G
 
 ### **4. Top 10 Job Title Clusters**
 
-* **View Interactive Plot:** [Top 10 Job Title Clusters (by %)](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Top_10_Job_Title_Clusters(by %).html)
+* **View Interactive Plot:** [Top 10 Job Title Clusters (by %)](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Top_10_Job_Title_Clusters.html)
 
 ---
 ## 🧠 Author
