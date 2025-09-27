@@ -1,6 +1,19 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GdodakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/main/Data-Science-AI-ML-Job-Salaries-2020-2025/eda.ipynb)
 
+| Column               | Description |
+|-----------------------|-------------|
+| `work_year`          | Year when the salary was paid |
+| `experience_level`   | EN: Entry, MI: Mid, SE: Senior, EX: Executive |
+| `employment_type`    | PT: Part-time, FT: Full-time, CT: Contract, FL: Freelance |
+| `job_title`          | Role or job title |
+| `salary`             | Gross salary (in original currency) |
+| `salary_currency`    | ISO 4217 code (e.g., USD, EUR, INR) |
+| `salary_in_usd`      | Salary converted to USD |
+| `employee_residence` | ISO country code of employee’s residence |
+| `remote_ratio`       | 0 = On-site, 50 = Hybrid, 100 = Fully remote |
+| `company_location`   | ISO country code of employer’s office |
+| `company_size`       | S = <50, M = 50–250, L = >250 employees |
 
 
 
