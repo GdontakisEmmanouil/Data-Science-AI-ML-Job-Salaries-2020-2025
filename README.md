@@ -76,9 +76,7 @@ Through this analysis, we aim to extract meaningful insights such as:
 
 These insights will help job seekers, employers, and industry analysts better understand the dynamics of compensation in the AI/ML and data science job market.
 
-## Interactive Plots
 
-[View Interactive Plot](https://github.com/GdontakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/dev/plots/Distributions_of_categorical_variables.html)
 
 
 
