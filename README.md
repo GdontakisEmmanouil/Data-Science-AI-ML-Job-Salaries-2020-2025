@@ -76,6 +76,10 @@ Through this analysis, we aim to extract meaningful insights such as:
 
 These insights will help job seekers, employers, and industry analysts better understand the dynamics of compensation in the AI/ML and data science job market.
 
+## Interactive Plots
+
+- [Distributions of Categorical Variables](plots/Distributions_of_categorical_variables.html)
+
 
 
 ---
