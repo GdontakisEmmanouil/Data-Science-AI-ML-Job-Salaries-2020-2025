@@ -1,8 +1,5 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
-## 📒 Exploratory Data Analysis Notebook
 
-View the interactive EDA notebook here:  
-[EDA Notebook (interactive)](https://nbviewer.org/github/GdontakisEmmanouil/Data-Science-AI-ML-Job-Salaries-2020-2025/blob/main/Data-Science-AI-ML-Job-Salaries-2020-2025/eda.ipynb)
 
 
 This project explores job salaries in the fields of Data Science, Artificial Intelligence, and Machine Learning using real-world data.
