@@ -70,16 +70,29 @@ Through this analysis, we aim to extract meaningful insights such as:
 - Evaluate the impact of remote work on salary levels,
 - Explore salary trends over time (2020–2025) to highlight emerging patterns, market shifts, and the evolution of compensation across the industry.
 
-## 📊 Interactive Visualizations (Click to View)
-
-* [Salary Distribution per Category](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Salary_distribution_per_categorical.html)
-* [Median Salary Trends](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Median_salary_trends_per_job_title.html)
-
-
 These insights will help job seekers, employers, and industry analysts better understand the dynamics of compensation in the AI/ML and data science job market.
 
+# 📊 Interactive Plotly Visualizations
 
+The visualizations below were created using Plotly and are hosted directly via GitHub Pages. Click any link to view the fully interactive chart in your browser without downloading any files.
 
+---
+
+### **1. Distributions of Categorical Variables**
+
+* **View Interactive Plot:** [Distributions of categorical values](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Distributions_of_categorical_variables.html)
+
+### **2. Median Salary Trends per Job**
+
+* **View Interactive Plot:** [Median salary trends per job](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Median_salary_trends_per_job_title.html)
+
+### **3. Salary Distribution per Category**
+
+* **View Interactive Plot:** [Salary distribution per category](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Salary_distribution_per_categorical.html)
+
+### **4. Top 10 Job Title Clusters**
+
+* **View Interactive Plot:** [Top 10 Job Title Clusters (by %)](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Top_10_Job_Title_Clusters(by %).html)
 
 ---
 ## 🧠 Author
