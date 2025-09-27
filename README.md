@@ -1,5 +1,11 @@
 # Data Science, AI & ML Job Salaries (2020–2025)
 
+## Interactive Plots
+
+- [Distributions of Categorical Variables](plots/Distributions_of_categorical_variables.html)
+- [Median Salary Trends per Job](plots/Median_salary_trends_per_job_.html)
+- [Salary Distribution per Category](plots/Salary_distribution_per_category_.html)
+- [Top 10 Job Title Clusters](plots/Top_10_Job_Title_Clusters(by_.html)
 
 
 
