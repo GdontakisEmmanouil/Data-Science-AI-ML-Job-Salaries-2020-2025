@@ -78,19 +78,19 @@ The visualizations below were created using Plotly and are hosted directly via G
 
 ---
 
-### **1. Distributions of Categorical Variables**
+#### **1. Distributions of Categorical Variables**
 
 * **View Interactive Plot:** [Distributions of categorical values](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Distributions_of_categorical_variables.html)
 
-### **2. Median Salary Trends per Job**
+#### **2. Median Salary Trends per Job**
 
 * **View Interactive Plot:** [Median salary trends per job](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Median_salary_trends_per_job_title.html)
 
-### **3. Salary Distribution per Category**
+#### **3. Salary Distribution per Category**
 
 * **View Interactive Plot:** [Salary distribution per category](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Salary_distribution_per_categorical.html)
 
-### **4. Top 10 Job Title Clusters**
+#### **4. Top 10 Job Title Clusters**
 
 * **View Interactive Plot:** [Top 10 Job Title Clusters (by %)](https://gdontakisemmanouil.github.io/Data-Science-AI-ML-Job-Salaries-2020-2025/Data-Science-AI-ML-Job-Salaries-2020-2025/plots/Top_10_Job_Title_Clusters.html)
 
