@@ -81,7 +81,6 @@ Created by [Gdontakis Emmanouil]
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/629cee0b-55c0-4c44-8abb-ac62fe5d296e" /> [LinkedIn](https://linkedin.com/in/gdodakis-emmanouil)  
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/704d9b93-e9aa-431a-96a9-a545186cc006" />
- [GitHub](https://github.com/GdodakisEmmanouil)
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/7069b0ee-e3c7-44aa-9482-5b2ca66cd32f" /> [GitHub](https://github.com/GdodakisEmmanouil)
 
 Student at Athens University of Economics and Business (AUEB), Statistics
