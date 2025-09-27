@@ -72,7 +72,7 @@ Through this analysis, we aim to extract meaningful insights such as:
 
 These insights will help job seekers, employers, and industry analysts better understand the dynamics of compensation in the AI/ML and data science job market.
 
-# 📊 Interactive Plotly Visualizations
+## 📊 Interactive Plotly Visualizations
 
 The visualizations below were created using Plotly and are hosted directly via GitHub Pages. Click any link to view the fully interactive chart in your browser without downloading any files.
 
