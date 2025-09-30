@@ -100,4 +100,3 @@ Created by [Gdontakis Emmanouil]
 
 <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/629cee0b-55c0-4c44-8abb-ac62fe5d296e" /> [LinkedIn](https://linkedin.com/in/gdodakis-emmanouil)  | <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/02769ee0-863d-4d50-a833-e5c8d3148d53" /> [GitHub](https://github.com/GdontakisEmmanouil)
 
-Student at Athens University of Economics and Business (AUEB), Statistics
